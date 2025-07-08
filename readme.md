@@ -50,4 +50,4 @@ Our goal is to forecast future passenger numbers and determine the best-performi
 
 ## Visual Output
 
-All models include plots showing forecasted values versus actuals. Example:
+All models include plots showing forecasted values versus actuals.
